@@ -1,0 +1,11 @@
+Blueprints for the PardonPusher
+By: Engineer Captain Partoot
+
+By orders of Captain Buffbeard, here be the plans for a mighty vessel.
+
+- Pirate ship hull materials
+- Pirate ship helm materials
+- Pirate ship rudder Materials
+- Pirate ship sail materials
+
+It is suggested that four teams, each lead by a captain, gather the required materials.
