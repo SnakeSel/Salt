@@ -1,44 +1,29 @@
-﻿Основные рецепты крафта
-В этой книге содержатся основные рецепты. Со временем Вы найдете другие книги и пополните свои знания новыми рецептами.
+BASIC CRAFTING RECIPES
+contained within these pages are a few basic recipes. Keep a sharp eye out for other books throughout your adventure, as there are many more recipes to discover.
 
-Основные
-Кирка (Pickaxe)	- 1 Твердый Камень (Hard Stone), 1 бревно (log)
-Костер (Campfire) - 3 бревна (logs), 2 Кремень (Flint Stone).  У костра можно отдохнуть.  
-Факел (Torch) - 1 бревно (log), 1 уголь (coal)
-Tripwire - 1 бревно (log), 1 растит.волокна (plant fiber)
-Оленья броня (Deerhide Armor) - 1 Шкура оленя (Deer Pelt), 1 растит.волокна (Plant Fiber)
-Флаг - 1 бревно (log), 1 ткань (cloth)
-Лопата (Shovel) - 1 Твердый Камень (hardstone), 1 бревно тверд. древесины (hardwood)
-Удочка (Bamboo Fishing Pole) - 1 Бамбук (Bamboo Pole), 1 Прочные растит. волокна(Strong Plant Fibers) или паутина(Spider Web), 1 Зрелый плод с дерева/красное яблоко (Ripe Tree Fruit)  
-
-
-Ресурсы
-Растительные волокна (Plant Fibers) - Получаются из бамбукового шеста (Bamboo Pole)
-Прочные растительные волокна (Strong Plant Fibers) - Можно получить из 3-х растительных волокон (Plant Fibers). Так же часто спаунится из пиратов. 
-Ткань (Cloth) - 3 растительных волокна (Plant Fibers) 
+General
+Pickaxe - 1 hardstone, 1 log
+Campfire - 3 logs, 2 flintstone
+Basic potions - 2 flowers of the same color
+Cloth - 3 plant fibers
+Torch - 1 log, 1 coal
+Tripwire - 1 log, 1 plant fiber
+Deerhide Armor - 1 Deer Pelt, 1 Plant Fiber
+Flag - 1 log, 1 cloth
+Shovel - 1 hardstone, 1 hardwood
 
 
-Оружие
-Дубина (Club) - 1 бревно (log)
-Короткий меч (Short Sword) - 1 Бревно (Log), 5 Камень (Stone Block) 
-Лук (Bow) - 1 бревно (log), 2 растительные волокна (plant fibers)
-Стрелы (Arrows) - 1 древесина (wood), 1 кремень (flintstone)
-Кинжал (Dagger) - 1 hardstone, 1 deer pelt
+Weapons
+Club - 1 log
+Sword - 5 stone, 1 log
+Bow - 1 log, 2 plant fibers
+Arrows - 1 wood, 1 flintstone
+Dagger - 1 hardstone, 1 deer pelt
 Hardwood bow - 1 hardwood, 2 plant fibers
 Hardstone Arrow - 1 hardwood, 1 hardstone
-Сабля (Scimitar) - 1 hardwood, 1 pristine deer pelt, 2 ironite
+Scimitar - 1 hardwood, 1 pristine deer pelt,
+             2 ironite
 
-
-Лодки
-Плот - 7 бревен (logs), 2 ткани (cloth)
-Лодка - 7 бревен твердой древесины (hardwood), 4 ткани (cloth)
-
-
-Морские принадлежности
-Компас (Compass). Выпадает из пирата-картографа, продается у торговца, попадается в сундуках, крафтится.
-Секстант (Sextant). Выпадает из пирата-картографа, продается у торговца, попадается в сундуках, крафтится.
-Подзорная труба (Spyglass). Выпадает из капитана-картографа. 
-
-
-Зелья
-Базовое - 2 цветка одного цвета
+Boats
+Sail raft - 7 logs, 2 cloth
+Sail boat - 7 hardwood, 4 cloth

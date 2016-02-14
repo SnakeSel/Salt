@@ -1,44 +1,35 @@
 Основные рецепты крафта
 В этой книге содержатся основные рецепты. Со временем Вы найдете другие книги и пополните свои знания новыми рецептами.
 
-Основные
-Кирка (Pickaxe)	- 1 Твердый Камень (Hard Stone), 1 бревно (log)
-Костер (Campfire) - 3 бревна (logs), 2 Кремень (Flint Stone).  У костра можно отдохнуть.  
-Факел (Torch) - 1 бревно (log), 1 уголь (coal)
-Tripwire - 1 бревно (log), 1 растит.волокна (plant fiber)
-Оленья броня (Deerhide Armor) - 1 Шкура оленя (Deer Pelt), 1 растит.волокна (Plant Fiber)
-Флаг - 1 бревно (log), 1 ткань (cloth)
-Лопата (Shovel) - 1 Твердый Камень (hardstone), 1 бревно тверд. древесины (hardwood)
-Удочка (Bamboo Fishing Pole) - 1 Бамбук (Bamboo Pole), 1 Прочные растит. волокна(Strong Plant Fibers) или паутина(Spider Web), 1 Зрелый плод с дерева/красное яблоко (Ripe Tree Fruit)  
-
-
 Ресурсы
-Растительные волокна (Plant Fibers) - Получаются из бамбукового шеста (Bamboo Pole)
-Прочные растительные волокна (Strong Plant Fibers) - Можно получить из 3-х растительных волокон (Plant Fibers). Так же часто спаунится из пиратов. 
-Ткань (Cloth) - 3 растительных волокна (Plant Fibers) 
+Волокна растений(Plant Fibers) - 1 бамбуковый шест(Bamboo Pole)
+Прочные волокна (Strong Plant Fibers) - 3 волокна(Plant Fibers) 
+Ткань(Cloth) - 3 волокна(Plant Fibers) 
+
+Основные
+Кирка(Pickaxe) - 1 Твердый Камень(Hard Stone), 1 бревно(log)
+Костер(Campfire) - 3 бревна(logs), 2 Кремень(Flint Stone)
+Факел(Torch) - 1 бревно(log), 1 уголь(coal)
+Tripwire - 1 бревно(log), 1 волокна(plant fiber)
+Оленья броня(Deerhide Armor) - 1 Шкура оленя(Deer Pelt), 1 волокна(Plant Fiber)
+Флаг - 1 бревно(log), 1 ткань(cloth)
+Лопата(Shovel) - 1 Твердый Камень(hardstone), 1 твердое бревно(hardwood)
+Удочка(Bamboo Fishing Pole) - 1 Бамбук(Bamboo Pole), 1 Прочные волокна(Strong Plant Fibers) или паутина(Spider Web), 1 Зрелый плод с дерева/красное яблоко(Ripe Tree Fruit)  
 
 
 Оружие
-Дубина (Club) - 1 бревно (log)
-Короткий меч (Short Sword) - 1 Бревно (Log), 5 Камень (Stone Block) 
-Лук (Bow) - 1 бревно (log), 2 растительные волокна (plant fibers)
-Стрелы (Arrows) - 1 бревно (log), 1 кремень (flintstone)
-Кинжал (Dagger) - 1 hardstone, 1 deer pelt
-Hardwood bow - 1 hardwood, 2 plant fibers
-Hardstone Arrow - 1 hardwood, 1 hardstone
-Сабля (Scimitar) - 1 hardwood, 1 pristine deer pelt, 2 ironite
-
+Дубина(Club) - 1 бревно(log)
+Короткий меч(Short Sword) - 1 Бревно(Log), 5 Камень(Stone Block) 
+Лук(Bow) - 1 бревно(log), 2 волокна(plant fibers)
+Стрелы(Arrows) - 1 бревно(log), 1 кремень(flintstone)
+Кинжал(Dagger) - 1 Твердый Камень(hardstone), 1 Шкура оленя(deer pelt)
+Крепкий лук(Hardwood bow) - 1 твердое бревно(hardwood), 2 волокна(plant fibers)
+Крепкие стрелы(Hardstone Arrow) - 1 твердое бревно(hardwood), 1 твердый камень(hardstone)
+Сабля(Scimitar) - 1 hardwood, 1 pristine deer pelt, 2 ironite
 
 Лодки
-Плот - 7 бревен (logs), 2 ткани (cloth)
-Лодка - 7 бревен твердой древесины (hardwood), 4 ткани (cloth)
-
-
-Морские принадлежности
-Компас (Compass). Выпадает из пирата-картографа, продается у торговца, попадается в сундуках, крафтится.
-Секстант (Sextant). Выпадает из пирата-картографа, продается у торговца, попадается в сундуках, крафтится.
-Подзорная труба (Spyglass). Выпадает из капитана-картографа. 
-
+Плот - 7 бревен(logs), 2 ткани(cloth)
+Лодка - 7 твердое бревно(hardwood), 4 ткани(cloth)
 
 Зелья
 Базовое - 2 цветка одного цвета
