@@ -1,49 +1,48 @@
-Welcome to the world of Salt! This world is about exploration, adventure and discovery. This book will help you get your adventure started. For a list of controls, see the Controls Book, which can be accessed through the pause menu by pressing escape on keyboard or start on controller.
+Добро пожаловать в мир Salt!
+Это мир приключений и открытий. Данная книга поможет в начале Вашего путешествия.
 
-INVENTORY
-As you explore, you will obtain items of all different sorts. These items are stored in your inventory. Each item icon will have a background color representing its quality or rarity, and may have a stack size number if the item is stackable.
+ИНВЕНТАРЬ
+Во время путешествия Вы найдете различные объекты. Все объекты хранятся в инвентаре. Фон иконки предмета указывает на его качества или редкость.
 
-When opening your inventory, you will notice two windows appear. The right-most window is your inventory while the left-most window shows all of the items you currently have equipped.
+При открытии инвентария появятся два окна. В правом распологаются хранимые объекты, а в левом экипированные объекты.
 
+На правой стороне инвентаря есть ряд вкладок.Это:
 
-On the right side of the inventory there are a number of different tabs. These tabs work as filters for your items. These tabs are:
+Основная вкладка - Показывает все, кроме лодок.
 
-General Tab - Shows everything except boats.
-
-Usable Tab - Shows items that you can click to use in some way such as potions or bandages.
-
-Equipable Tab - Shows items that can be equipped.
-
-Crafting Tab - Opens crafting interface and shows items that can be used as crafting components.
-
-Boat Tab - Shows boats.
+Вкладка Использовать - Показывает объекты которые Вы можете использовать. Например бинты или зелья.
 
 
-CRAFTING
-When you select the crafting tab in your inventory, the crafting interface will appear at the top of the window. When you select crafting components from your inventory, they will show up in the left hand set of boxes in the crafting interface. If the components can combine to create something, a new icon will appear in the right-hand set of boxes. You can select this icon to craft it. You can find a list of basic crafting recipes in your crafting journal, which can be found in your general inventory tab.
+Вкладка Экипировка - Показывает предметы которые можно экипировать.
 
-BOATS
-In order to travel around the world, you will need a boat. You can find the recipes for starting boats in your crafting journal. Once a boat is crafted, it will appear in your inventory under the boat tab. Interact with the boat item to place the boat. 
+Вкладка крафта - Открывает интерфейс крафта.
 
+Вкладка лодок - Покажет лодки.
 
-When you place a boat, you may notice that it is still in your inventory. You can re-place a single boat as many times as you wish, and you can have one of each type of boat out at a time.
+КРАФТ
+При выборе вкладки крафта его интерфейс откроется выше. При выборе предметов они отобразятся в левой части окна крафта. Если из элементов можно что-то создать, то новый элемент отобразится в правой части.
 
-SAVING
-Upon quitting the game and returning, or upon death, you will respawn at your last save point. Your inventory, however, is constantly saved. This means you will not lose items upon death, but nor will you regain any items that you have used since your last save. This means that if you use some arrows in a fight and die, you will not regain those arrows.
+ЛОДКИ
+Для путешествий Вам понадобится лодка. После создания лодка появится в инвентаре во вкладке лодки. 
 
-RESTING
-If you wish to pass some time and heal up, you can rest at a campfire. Campfires can be found in the world, or you can craft them and place them yourself.
-
-
-FOOD
-On the bottom left of your screen is a set of bars. The green bar on bottom is your food meter. The lower it is, the more hungry you are. When this meter runs out, you will recover stamina at a much slower rate. As long as you have some food, your health will slowly regenerate over time. You can replenish your food by eating, and some food give you special effects. If you are too full to consume a food item, you will not be able to eat it until you are hungry enough, so choose wisely what you eat for your meals.
-
-STAMINA
-The blue bar above the food meter is your stamina meter. Stamina is used for many combat actions, sprinting, swimming, and dodging.
+После установки лодка останется в инвентаре. Можно иметь лодку каждого типа.
 
 
-COMBAT
-Combat involves four main actions. Primary attack, secondary attack, blocking, and dodging. Secondary attacks and dodging generally use stamina. In order to attack, you need to equip a weapon. You can also avoid enemy detection by sneaking.
+СОХРАНЕНИЕ
+Выйдя из игры и вернувшись, или после смерти, Вы возрадитесь на последней точке сохранения. Но Ваш инвентарь сохранит изменения. Наприм.: если вы использовали стрелы в бою и умерли, то после возрождения данные стрелы вам не вернутся.
 
-HOTKEYS
-You can bind any item in your inventory to a hotkey (0-9 on the keyboard or bumper+button on controller). To hotkey an item, hover your mouse over it or select it with the conroller and press the number/button combination that you wish to bind it to. Multiple items can be bound to the same hotkey. This will cyle between the items bound to the same hotkey.
+ОТДЫХ
+Вы можете отдохнуть у костра чтобы восстановить здоровье или переждать время.
+
+ЕДА
+В нижнем левом углу отображаются полоски Ваших показателей. Зеленая полоска это уроветь сытости. Чем полоса меньше, тем больше вы голодны. Чем больше вы голодны, тем медленне восстанавливается выносливость. Пока вы хоть немного сыты, здоровье будет медленно восстанавливаться. Некоторая еда дает доп. свойства.
+
+
+ВЫНОСЛИВОСТЬ
+Синяя полоска это выносливость. Она нужна для атаки, бега, плаванья и улонения.
+
+АТАКА
+Атака включает 4 действия. Основная атака, дополнительная атака, блок, и уклонение. Вы можете избежать обнаружения используя скрытность.
+
+ГОРЯЧИЕ КЛАВИШИ
+Чтобы установить горячую клавишу на объекте, наведите на него мышку в инвентаре и нажмите цифру на клав-ре (0-9). Вы можете установить несколько объектов на одну клавишу.
