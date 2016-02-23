@@ -1,18 +1,18 @@
 Boat Supplies Vol. 1
 By: Cass the Voyager
 
-Fortunate is the adventurer who lives upon the sea, for their home knows no bounds. Should you find your drifting abode listless, Look to these recipes for inspiration.
+Счастлив авантюрист что живет на море, ибо дом его не знает границ. Если Вы считаете вашу обитель дряхлой, посмотрите эти рецепты в качесте вдохновения.
 
-Torch Holder:
-Mount these upon your ship walls to hold a lit torch. Mold them from one ironite ore.
+Факелодержатель (Torch Holder) :
+Установите его на стену корабля, что удерживать зажженый факел. Создается из 1 железа(ironite ore).
 
-Fire Pit:
-This will provide you with a safe place to start a small fire upon your ship, allowing you to keep warm and rest through the night. Craft it from two hardstone ores.
+Место для розжига костра на палубе(Fire Pit):
+Дает возможность безопасно разжечь костер на палубе и отдохнуть. Создается из 2 твердых камней(hardstone).
 
 
-Storage Chest:
-Ease your burdens and save your back. Your boat will be happy to hold your supplies until you have need of it. Craft a storage chest from four hardstone ores and six wooden logs. If you are in need for more robust stroage, craft your chest from three ironite and four hardwood logs instead.
+Сундук(Storage Chest):
+Ослабит трудности и сбережет Вашу спину. Ваша лодка с радостью сохранит ваши предметы пока в них нет надобности. Создается из 6 Бревен (Wood Log) и 4 твердых камней(hardstone). 
+Если Вы нуждаетесь в более крепком сундуке, используйте 3 железа(ironite ore) и 4 твердых бревна(hardwood).
 
-Bed:
-Fine sheets can be made from the land. Craft three fine materials from strong plant fibers or silks. Use these fine materials for sheets, and four hardwood for the frame.
-
+Кровать(Bed):
+Ткань валяется прямо у вас под ногами. Сшейте ее из волокна(plant fiber) или шелка(silk). Для кровати используйте 3 крепкой ткани (Fine Material) и 4 твердых бревна(hardwood).
