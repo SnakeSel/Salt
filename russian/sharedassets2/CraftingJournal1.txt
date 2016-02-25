@@ -10,7 +10,7 @@
 Кирка(Pickaxe) - 1 Твердый Камень(Hard Stone), 1 бревно(log)
 Костер(Campfire) - 3 бревна(logs), 2 Кремень(Flint Stone)
 Факел(Torch) - 1 бревно(log), 1 уголь(coal)
-Tripwire - 1 бревно(log), 1 волокна(plant fiber)
+Растяжка(Tripwire) - 1 бревно(log), 1 волокна(plant fiber)
 Оленья броня(Deerhide Armor) - 1 Шкура оленя(Deer Pelt), 1 волокна(Plant Fiber)
 Флаг - 1 бревно(log), 1 ткань(cloth)
 Лопата(Shovel) - 1 Твердый Камень(hardstone), 1 твердое бревно(hardwood)
