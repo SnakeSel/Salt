@@ -1,9 +1,8 @@
-# Salt
-## Русский перевод игры Salt.
+# Русский перевод игры Salt.
 
-Файл перевода должен иметь кодировку UTF-8 без BOM.
+* Файл перевода должен иметь кодировку UTF-8 без BOM.
 
-Для замены файлов игры используйте [UnityEX](http://www.zoneofgames.ru/forum/index.php?showtopic=36240)
+Для замены файлов игры используйте [UnityEX](http://www.zoneofgames.ru/forum/index.php?showtopic=36240).
 
 1. Папку "russian/sharedassets2/" скопируйте в "Salt/Salt_Data/Unity_Assets_Files" (будет: Unity_Assets_Files/sharedassets2)
 2. Запустите UnityEX и нажмите "Открыть архив Unity"
