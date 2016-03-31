@@ -8,16 +8,18 @@ Hotkeys - 0-9
 Primary Attack - Left Mouse (requires weapon)
 Secondary Attack - Hold Left Mouse (requires weapon)
 Block / Secondary Attack - Right mouse (requires weapon)
-Remove Placed Ship Upgrade - Hold F
+Remove Placed Ship Upgrade - Hold E
 Quicksave - F5
 Screenshot - F9
 
 
 KEYBOARD INTERFACE CONTROLS:
 Inventory / Close Window - Tab
-Menu - Escape / X
+Menu - Escape
 Interact with item - Right Click
 Inspect item - Left Click
+Journal - J
+Map - X, M
 Utility Tab - U
 General Tab - G
 Crafting Tab - C

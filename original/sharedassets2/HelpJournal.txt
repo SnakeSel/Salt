@@ -47,3 +47,26 @@ Combat involves four main actions. Primary attack, secondary attack, blocking, a
 
 HOTKEYS
 You can bind any item in your inventory to a hotkey (0-9 on the keyboard or bumper+button on controller). To hotkey an item, hover your mouse over it or select it with the conroller and press the number/button combination that you wish to bind it to. Multiple items can be bound to the same hotkey. This will cyle between the items bound to the same hotkey.
+
+
+JOURNAL
+The journal is divided into two sections. You can switch between these sections by pressing the bookmarks labeled Main and Quest at the top left of the journal interface. The main section of the journal is for you to keep notes about the game as you please. The quest section holds brief notes on quests that you encounter during play. This section is not editable, and will automatically updated during play.
+
+To edit the main section of the journal, mouse over the quill icon at the bottom of the page that you wish to edit, and select either new entry or new section. If you chose to add a new section, it will create a link to a brand new section of the journal. Use sections to keep your journal better organized.
+
+
+MAP
+As you travel the world, it may be useful to make note of what you find where. Use your map to mark where an island is located, and add icons to indicate what you found there. Note that you will need to find or craft a sextant in order to easily determine your location in the world.
+
+The map is divided into a large grid. Each grid represents one square unit of distance in the world. For reference, a small island fits entirely into one square. Click a square on the map to mark it as an island. You can click an island on the map to open up a window with additional options for that island.
+
+Within the island options window, click the grow/shrink icon at the top left to convert the island into a large island, which will expand it one unit north and one unit east. The red X button
+
+
+at the top right will delete the island. Below those two buttons you will see a list of icons that can be added to the island. Click on any of these to add them on top of the currently selected island. These can be used to indicate certain things that you found on the island.
+
+At the bottom of the island edit window is a button with the journal icon. Click this to open up a journal section specifically for the selected island. Here, you can make any kind of notes you want. This is handy for noting detailed information that you want to remember about the island.
+
+Not all features of the map are available to you right away. Explore the world to find ways to unlock new features.
+
+For instructions on adding your own custom map icons, please visit SaltTheGame.com/pages/mapicons/.
