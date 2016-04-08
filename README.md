@@ -1,4 +1,4 @@
-# Русский перевод игры Salt 1.7
+# Русский перевод игры Salt 1.7.1
 
 ### Установка перевода.
 Для замены файлов игры используйте [UnityEX](http://www.zoneofgames.ru/forum/index.php?showtopic=36240).
