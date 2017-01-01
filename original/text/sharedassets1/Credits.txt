@@ -1,0 +1,205 @@
+CREDITS
+
+DESIGN
+John Gamble
+Robert Gamble
+Will Sterling
+
+CODING
+John Gamble
+Robert Gamble
+
+MODELING
+John Gamble
+Amber Hall
+
+SOUND AND MUSIC
+Will Sterling
+John Gamble
+
+
+INITIAL TESTING
+Will Sterling
+Horace McGahey
+Dean McGahey
+Jordan Anderson
+Stephen Doud
+CJ Gamble
+Sarah Ervin
+Amber Hall
+Braxton Davis
+Frank Gamble
+Dlynn Gamble
+
+ONGOING TESTING
+All of our awesome players. Thank you!
+
+ENGINE
+Unity 5
+
+
+ADDITIONAL ASSETS
+Deer Model -- BBO Studio
+Spider Model -- Kalamona
+Various Trees and Vegetation -- Unity Technologies
+
+MISC SOUNDS
+http://www.freesfx.co.uk
+http://freesound.org/people/soundscalpel.com/sounds/110393/
+https://www.freesound.org/people/Benboncan/sounds/72853/
+http://www.freesound.org/people/swuing/sounds/38874/
+https://www.freesound.org/people/Slave2theLight/sounds/157021/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SECRETS AND EASTER EGGS
+????

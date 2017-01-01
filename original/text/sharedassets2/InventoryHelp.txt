@@ -1,0 +1,31 @@
+As you explore, you will obtain items of all different sorts. These items are stored in your inventory. Each item icon will have a background color representing its quality or rarity, and may have a stack size number if the item is stackable.
+
+When you open your inventory, you will notice two windows appear. The right-most window is your inventory while the left-most window shows all of the items you currently have equipped.
+
+
+On the right side of the inventory there are a number of different tabs. These tabs work as filters for your items. The default tabs are:
+
+- General Tab: Shows everything except boats.
+- Usable Tab: Shows items that you can click to use in some way such as potions or bandages.
+- Equipable Tab: Shows items that can be equipped.
+- Crafting Tab: Opens crafting interface and shows items that can be used as crafting components.
+- Boat Tab: Shows boats.
+
+Other special tabs can be unlocked through gameplay.
+
+
+Inventory Controls:
+
+(Keyboard & Mouse)
+-TAB to open or close inventory
+-Left-click to equip, use, or activate items
+-Right-click to open inspection menu
+-Click and drag to move items from one slot to another, or between windows
+
+(Gamepad)
+-B to open or close inventory
+-Directional pad or right analog stick to move selection
+-A to equip, use, or activate items
+-X to pick up item from a slot
+-A or X with an item picked up to place in slot
+-Right and left triggers to cycle through inventory tabs

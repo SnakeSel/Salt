@@ -1,0 +1,1 @@
+You can bind any item in your inventory to a hotkey (0-9 on the keyboard or bumper+button on controller). To hotkey an item, hover your mouse over it or select it with the conroller and press the number/button combination that you wish to bind it to. Multiple items can be bound to the same hotkey. This will cycle between the items bound to the same hotkey.

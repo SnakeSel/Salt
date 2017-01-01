@@ -1,0 +1,5 @@
+In order to travel around the world, you will need a boat. There are multiple ways to obtain boats including crafting one, repairing a damaged one, and as quest rewards. Once a boat is crafted, repaired, or obtained in another way, it will appear in your inventory under the boats tab. Interact with the boat item to place the boat. 
+
+If your boat gets away from you, don't worry. You can always summon it back by once again interacting with the boat item from your inventory.
+
+For easier placement, you can hotkey boat items just like any other item. See the "Hotkeys" section for more information.

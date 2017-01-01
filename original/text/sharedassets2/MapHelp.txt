@@ -1,0 +1,16 @@
+As you travel the world, it may be useful to make note of what you find where. Use your map to mark where an island is located, and add icons to indicate what you found there. Note that you will need to find or craft a sextant in order to easily determine your location in the world.
+
+The map is divided into a large grid. Each grid square represents one square unit of distance in the world. For reference, a small island fits entirely into one square. Click a square on the map to mark it as an island. You can click an island on the map to open up a window with additional options for that island.
+
+Within the island options window, click the grow/shrink icon at the top left to convert the island into a large island, which will expand it one unit north and one unit east. 
+
+The red X button at the top right will delete the island. Below those two buttons you will see a list of icons that can be added to the island. Click on any of these to add them on top of the currently selected island. These can be used to indicate certain things that you found on the island.
+
+At the bottom of the island edit window is a button with the journal icon. Click this to open up a journal section specifically for the selected island. Here, you can make any kind of notes you want. This is handy for noting detailed information that you want to remember about the island.
+
+Not all features of the map are available to you right away. Explore the world to find ways to unlock new features.
+
+TECHNICAL INFORMATION
+Data for the map is contained in the SaveData folder within your Salt installation directory. In there, look for the folder that matches the name of the game you are playing on. PlayerMapData.txt contains the data for your map. If you wish to clear all map data for your game, delete this file.
+
+For instructions on adding your own custom map icons, please visit SaltTheGame.com/pages/mapicons/.

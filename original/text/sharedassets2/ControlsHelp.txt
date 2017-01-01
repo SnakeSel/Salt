@@ -1,0 +1,33 @@
+Salt can be controlled with either a mouse/keyboard or controller, and keybindings can be customized from the "Input" tab in the Salt Configuration window that appears when you launch the game. Below are the default keyboard/mouse controls.
+
+EXPLORATION CONTROLS:
+Movement - W/A/S/D
+Interact - E
+Sneak - Left Control
+Sprint - Left Shift
+Jump - Space
+Dodge - Space + A/S/D
+Hotkeys - 0-9
+Primary Attack - Left Mouse (requires weapon)
+Secondary Attack - Hold Left Mouse (requires weapon)
+Block / Secondary Attack - Right mouse (requires weapon)
+Remove Placed Ship Upgrade - Hold E
+Quicksave - F5
+Screenshot - F9
+
+
+INTERFACE CONTROLS:
+Inventory / Close Window - Tab
+Pause Menu - Escape
+Interact with item - Right Click
+Inspect item - Left Click
+Journal - J
+Map - X, M
+Help - H
+Utility Tab - U
+General Tab - G
+Crafting Tab - C
+Boats Tab - B
+Toggle HUD - F1 
+
+This information as well as default keybindings for controllers can be found by opening the controls book from the pause menu (escape).

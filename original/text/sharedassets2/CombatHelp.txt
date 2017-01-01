@@ -1,0 +1,7 @@
+In order to fight you need to equip a weapon from your inventory. Left click a weapon in your inventory to equip it, and use it with left/right click.
+
+Combat involves four main actions. Primary attack, secondary attack, blocking, and dodging. Secondary attacks and dodging generally use stamina.
+
+Enemies can both see and hear. If you want to get the jump on an enemy, you need to avoid being seen and heard. Stay behind or far away from an enemy to avoid being seen. Also, enemies cannot see as well at night. 
+
+To avoid being heard, you can sneak by pressing CTRL. This will reduce the amount of noise you make while walking, but drains stamina and causes you to move more slowly.

@@ -1,0 +1,3 @@
+The blue bar above the food meter is your stamina meter. Stamina is used for many combat actions, sprinting, swimming, and dodging.
+
+Your stamina will begin regenerating after a small amount of time. If you run completely out of stamina, it will begin regenerating after a slightly longer amount of time. Because of this, it is slightly more efficient to Use stamina in bursts without letting yourself completely run out.

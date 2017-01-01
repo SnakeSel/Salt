@@ -1,0 +1,9 @@
+The Cobalt Crafter
+
+Although somewhat heavy, cobalt ore is a very hardy material. It is excellent for crafting blades, armor, and other useful objects. Though alone the ore is quite strong, its greatest potential strength comes from combining it with hardstone to create a cobalt alloy. Note that in order to combine the ores, you must get them very hot. One piece of coal per piece of ironite and cobalt is required to heat it to the proper temperature. The following are some recipes for useful cobalt items.
+
+Cobalt Greatsword: 5 cobalt, 5 ironite, 5 coal, 1 pristine deer pelt
+Cobalt Breastplate: 3 cobalt, 3 ironite, 3 coal, 1 pristine deer pelt
+Cobalt Greaves: 3 cobalt, 3 ironite, 3 coal, 1 pristine deer pelt
+Cobalt Chest: 3 cobalt, 3 ironite, 3 coal, 4 hardwood logs
+Cobalt Torch Holder: 1 cobalt, 1 ironite, 1 coal
