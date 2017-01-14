@@ -1,7 +1,5 @@
 You can save the game at almost any time by pressing F5, or selecing "Save" from the pause menu. You cannot save while close to enemies.
 
-Upon quitting the game and returning, or upon death, you will respawn at your last save point. Your inventory, however, is constantly saved. This means you will not lose items upon death, but nor will you regain any items that you have used since your last save. This means that if you use some arrows in a fight and die, you will not regain those arrows.
+Periodically during play, the game will auto-save. This is indicated by the saving icon that will appear in the bottom right of your screen when the game auto-saves and will look like a small animated ship's wheel.
 
-If something goes horribly wrong such as item loss due to a bug, you can revert the state of the game (items and all) back to the point at which you last saved the game. To do this, click the "Load" button in the main menu and click the checkbox under all of the saves labeled "On load, revert game state to last manual save." With that checked, click on the game you wish to load.
-
-For technical information on how games are saved and how to back them up or transfer them, refer to https://saltthegame.com/pages/SaltSaveFiles/.
+When returning to your game, the most recent auto or manual save will be loaded by default. However, you can choose to specifically load the manual or the auto save files by pressing the gear button next to the save slot in the load menu within the main menu.
